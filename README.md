@@ -9,7 +9,7 @@
 
 - 🧠 Passionate about leveraging AI to transform education and healthcare, with significant project experience in visual question answering and medical image analysis.
 - 👨‍🏫 Current Teacher Assistant at Katz School of Science and Health, enhancing medical deep learning proficiency among students through meticulous mentoring and project supervision.
-- 🏆 Contributed to the development of 'SparrowVQE', a 3B parameter AI for enhanced visual question explanation in machine learning education, demonstrating an innovative approach in interactive learning and dataset design.
+- 🏆 Contributed to the development of the 'Visual Question Explanation for Course Content Understanding' application for enhanced visual question explanation in machine learning and deep learning education, demonstrating an innovative approach in interactive learning and dataset design.
 - 🛠️ Proficient in Python, PyTorch, TensorFlow, and NVIDIA CUDA, with deep expertise in CNNs, Transformers, and VQA systems.
 <!-- - 🎓 Holds a Master's degree in Artificial Intelligence from Yeshiva University in New York City with a GPA of 3.97/4.00 and a Bachelor's degree in Applied Sciences and Computer Engineering from the University of West Bohemia in Pilsen. -->
 - 🌍 Former Systems & Network Administrator with a robust background in network optimization and end-user support, including the deployment of major upgrades and security solutions.
