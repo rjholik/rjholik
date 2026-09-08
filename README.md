@@ -1,4 +1,4 @@
-# Hi, I'm Radek Holik 👋
+# Hi, I'm Radek 👋
 
 I'm a **Data Scientist / Machine Learning Application Engineer** focused on building practical AI systems for **natural language processing, conversational AI, document intelligence, computer vision, and large-scale data processing**.
 
