@@ -8,33 +8,37 @@ I enjoy working across the entire AI/ML lifecycle — from **raw and unstructure
 
 ## 🚀 What I Work On
 
-- 💬 **AI Chatbots & Conversational AI** — developing conversational systems and applications powered by modern language models.
-- 🧠 **Natural Language Processing** — building pipelines for understanding, transforming, extracting, and analyzing textual data.
-- 📚 **Document Intelligence** — processing large document collections and extracting structured information from unstructured data.
-- 🧹 **Data Processing & Engineering** — cleaning, transforming, validating, and processing large volumes of raw and heterogeneous data.
-- 👁️ **Computer Vision & Multimodal AI** — working with CNNs, transformers, vision-language models, VQA, and multimodal systems.
-- 🎮 **Reinforcement Learning** — experimenting with agents, environments, reward-driven learning, and sequential decision-making.
-- ☁️ **Cloud AI & Data Processing** — using AWS and Microsoft Azure for scalable data processing and AI/ML workloads.
-- 🧪 **Applied Machine Learning** — taking projects from data exploration and experimentation through model training, evaluation, and implementation.
+* 💬 **AI Chatbots & Conversational AI** — developing conversational systems and applications powered by modern language models.
+* 🧠 **Natural Language Processing** — building pipelines for understanding, transforming, extracting, and analyzing textual data.
+* 📚 **Document Intelligence** — processing large document collections and extracting structured information from unstructured data.
+* 🧹 **Data Processing & Engineering** — cleaning, transforming, validating, and processing large volumes of raw and heterogeneous data.
+* 👁️ **Computer Vision & Multimodal AI** — working with CNNs, transformers, vision-language models, VQA, and multimodal systems.
+* 🎮 **Reinforcement Learning** — experimenting with agents, environments, reward-driven learning, and sequential decision-making.
+* ☁️ **Cloud AI & Data Processing** — using AWS and Microsoft Azure for scalable data processing and AI/ML workloads.
+* 🧪 **Applied Machine Learning** — taking projects from data exploration and experimentation through model training, evaluation, and implementation.
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Python, SQL, PowerShell, LaTeX, MATLAB/Simulink
-- **ML / Deep Learning / Data Science**: NumPy, Pandas, PyTorch, TensorFlow, scikit-learn, NVIDIA CUDA
-- **Machine Learning Algorithms**: Linear & Logistic Regression, k-NN, SVM, Decision Trees, Random Forest, XGBoost, Gradient Boosting, PCA, K-Means
-- **Deep Learning & AI**: CNNs, Transformers, Transfer Learning, Reinforcement Learning, VQA, NLP, LLMs
-- **Data & Document Processing**: Data Cleaning, Data Transformation, Feature Engineering, Large-Scale Document Processing, Information Extraction
-- **Cloud & Infrastructure**: AWS, Microsoft Azure, Linux
+* **Languages**: Python, SQL, PowerShell, LaTeX, MATLAB/Simulink
+* **ML / Deep Learning / Data Science**: NumPy, Pandas, PyTorch, TensorFlow, scikit-learn, NVIDIA CUDA
+* **Machine Learning Algorithms**: Linear & Logistic Regression, k-NN, SVM, Decision Trees, Random Forest, XGBoost, Gradient Boosting, PCA, K-Means
+* **Deep Learning & AI**: CNNs, Transformers, Transfer Learning, Reinforcement Learning, VQA, NLP, LLMs
+* **Data & Document Processing**: Data Cleaning, Data Transformation, Feature Engineering, Large-Scale Document Processing, Information Extraction
+* **Cloud & Infrastructure**: AWS, Microsoft Azure, Linux
 
 ## 🎓 Education
 
-**M.S. in Artificial Intelligence** — Yeshiva University, New York City  
+**M.S. in Artificial Intelligence** — Yeshiva University, New York City
 **B.S. in Cybernetics and Control Engineering** — University of West Bohemia, Pilsen
+
+## 🏃 Beyond Tech
+
+Outside of AI and data science, I enjoy **traveling, exercising, and running**. Running has become an especially meaningful challenge for me, and I'm proud to have **completed the New York City Marathon multiple times**.
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/radek-jan-holik-282994115)
-- 🔬 [ResearchGate](https://www.researchgate.net/profile/Radek-Holik)
+* 💼 [LinkedIn](https://www.linkedin.com/in/radek-jan-holik-282994115)
+* 🔬 [ResearchGate](https://www.researchgate.net/profile/Radek-Holik)
 
 ---
 
