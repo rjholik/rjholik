@@ -28,8 +28,8 @@ I enjoy working across the entire AI/ML lifecycle — from **raw and unstructure
 
 ## 🎓 Education
 
-**M.S. in Artificial Intelligence** — Yeshiva University, New York City
-**B.S. in Cybernetics and Control Engineering** — University of West Bohemia, Pilsen
+* **M.S. in Artificial Intelligence** — Yeshiva University, New York City
+* **B.S. in Cybernetics and Control Engineering** — University of West Bohemia, Pilsen
 
 ## 🏃 Beyond Tech
 
