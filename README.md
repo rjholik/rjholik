@@ -1,4 +1,4 @@
-# Hi, I'm Radek 👋
+# Hi, I'm Radek
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-145DA0?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6F42C1?style=flat-square) ![AI Engineering](https://img.shields.io/badge/AI%20Engineering-087E8B?style=flat-square)
 
