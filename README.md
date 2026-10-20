@@ -50,5 +50,3 @@ Outside of AI and data science, I enjoy **traveling, exercising, and running**. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radek-jan-holik-282994115) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Radek-Holik)
 
 ---
-
-*Building intelligent systems from complex, real-world data.*
